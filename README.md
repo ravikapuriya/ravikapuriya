@@ -19,8 +19,8 @@ I am Ravi Kapuriya, a passionate **Senior Game Developer** with a Bachelor's deg
 I specialize in:
 
 - 🎯 Full-cycle game development — from prototype to publishing.
-- ⚙️ Skilled in **JavaScript, TypeScript, Cocos Creator, Unity, C#, Phaser, Pixi.js, Three.js**
-- 📊 Strong in **data handling** and working with the **MVP framework**
+- ⚙️ Skilled in **JavaScript, TypeScript, Phaser.js, Cocos Creator, Unity, C#, Pixi.js, Matter.js**
+- 📊 Strong in **data handling** and working with the **MVP framework** and **Multiplayer**
 - 💡 Focus on **gameplay mechanics**, **UI design**, and performance optimization
 
 I am committed to innovation in gaming and strive to build immersive, boundary-pushing web-based game experiences.
@@ -29,25 +29,28 @@ I am committed to innovation in gaming and strive to build immersive, boundary-p
 
 ## 🛠️ Skills & Technologies
 
-### 🎨 Design Tools  
+### 🎨 Design Tools
 `Texture Packer` • `Tiled` • `Figma`
 
-### 💻 Technologies  
-`HTML5` • `CSS3` • `JavaScript` • `TypeScript` • `C#` • `C++`  
-`jQuery` • `React` • `Material UI` • `Tailwind CSS`
+### 💻 Technologies
+`HTML5` • `CSS3` • `JavaScript` • `TypeScript` • `C#` • `C++` • `jQuery` • `React` • `Material UI` • `Tailwind CSS`
 
-### 📚 Libraries  
+### 📚 Libraries
 `Phaser.js` • `Pixi.js` • `Matter.js`
 
-### 🧰 Development & Productivity Tools  
-`Cursor` • `WebStorm` • `VS Code` • `Cocos Creator` • `Unity` • `GitHub` • `BitBucket` • `Jira` • `Clickup` 
+### 🧰 Development & Productivity Tools
+`Cursor` • `WebStorm` • `VS Code` • `Cocos Creator` • `Unity` • `GitHub` • `BitBucket` • `Jira` • `Clickup`
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikapuriya&layout=compact&theme=buefy&hide_border=true" />
 
 ---
 
 ## 🔗 Connect with Me
 
-- 📬 **Email**: [ravi.kapuriya29@gmail.com](mailto:ravi.kapuriya29@gmail.com)  
-- 💬 **WhatsApp**: [+91-8880907008](https://wa.me/918880907008)  
+- 📬 **Email**: [ravi.kapuriya29@gmail.com](mailto:ravi.kapuriya29@gmail.com)
+- 💬 **WhatsApp**: [+91-8880907008](https://wa.me/918880907008)
 - 💼 **LinkedIn**: [linkedin.com/in/ravikapuriya](https://linkedin.com/in/ravikapuriya/)
 
 ---
