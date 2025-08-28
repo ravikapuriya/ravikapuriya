@@ -45,6 +45,8 @@ I am committed to innovation in gaming and strive to build immersive, boundary-p
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikapuriya&layout=compact&theme=buefy&hide_border=true" />
 
+<a href="https://app.daily.dev/ravikapuriya"><img align="center" src="https://api.daily.dev/devcards/v2/361996ebe4214e7a8e82ed5e7358af08.png?type=wide&r=y4o" width="652" alt="Ravi Kapuriya's Dev Card"/></a>
+
 ---
 
 ## 🔗 Connect with Me
