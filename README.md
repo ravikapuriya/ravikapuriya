@@ -33,10 +33,10 @@ I am committed to innovation in gaming and strive to build immersive, boundary-p
 `Texture Packer` • `Tiled` • `Figma`
 
 ### 💻 Technologies
-`HTML5` • `CSS3` • `JavaScript` • `TypeScript` • `C#` • `C++` • `jQuery` • `React` • `Material UI` • `Tailwind CSS`
+`HTML5` • `CSS3` • `JavaScript` • `TypeScript` • `C#` • `C++` • `jQuery`
 
 ### 📚 Libraries
-`Phaser.js` • `Pixi.js` • `Matter.js`
+`Phaser.js` • `Pixi.js` • `Matter.js` • `Box2D`
 
 ### 🧰 Development & Productivity Tools
 `Cursor` • `WebStorm` • `VS Code` • `Cocos Creator` • `Unity` • `GitHub` • `BitBucket` • `Jira` • `Clickup`
@@ -59,7 +59,7 @@ I am committed to innovation in gaming and strive to build immersive, boundary-p
 
 ## 📄 My Resume
 
->  <a href="https://drive.google.com/file/d/1a3_83RAgMsqCe_y-IGT3TWpghyZpBpv5/view?usp=sharing">🔗 My Resume</a>
+>  <a href="https://drive.google.com/file/d/1yFbC35DpjABuH4HPd235DWTwSCrFR9Hv/view?usp=drivesdk">🔗 My Resume</a>
 
 ---
 
